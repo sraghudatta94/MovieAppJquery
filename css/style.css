@@ -2,7 +2,30 @@
 
 	text-align:left;
 }
-#ErrorDiv,#poster{
-
+#ErrorDiv{
+	text-align: center;
+	margin-top: 300px;
 	color: red;
+}
+header{
+	font-weight: bold;
+text-indent: 50px;
+background: #ffffb3;
+}
+#movieName{
+margin-top: 15px;
+padding-bottom: 5px;
+}
+#searchButton{
+margin-top: 15px;
+padding-bottom: 5px;
+}
+.gridsection{
+	padding-top: 50px;
+}
+#poster{
+	height:100%;
+}
+#para{
+	height:100%;
 }
